@@ -49,11 +49,11 @@ diagnostics:
         preprocessor: preprocessor1
         mip: Amon
         start_year: 2000
-        end_year: 2002
+        end_year: 2003
       pr:
         mip: Amon
         start_year: 2000
-        end_year: 2002
+        end_year: 2003
     scripts:
       script1:
         script: examples/diagnostic.py
